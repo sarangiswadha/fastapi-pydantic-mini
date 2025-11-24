@@ -11,3 +11,9 @@ Setup so that I remeber :
 3. cpoy `.env.example` to `.env` and add your OpenWeatherMap API key
 4.  `uvicorn app.main:app --reload --port 8000`
 5. `http://127.0.0.1:8000/docs`
+
+
+
+1) git init
+2) git remote add origin https://github.com/sarangiswadha/fastapi-pydantic-mini.git'
+3) git push -u origin main
